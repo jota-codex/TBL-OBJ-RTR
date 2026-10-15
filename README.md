@@ -39,5 +39,3 @@ C#
 
 Cada atividade foi separada em sua respectiva pasta para facilitar a navegação, consulta e execução dos códigos.
 
-### POO Challenge - Estacionamento
-- [Solucao, planejamento e instrucoes](POO-Challenge/README.md)
