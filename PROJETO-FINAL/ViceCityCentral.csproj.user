@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Views\Components\CamposTema.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Views\Components\CardPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Views\Components\ImagemPreview.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Views\Components\ListaRegistros.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Views\Components\Mensagem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Components\NeonButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Views\Components\SidebarButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Views\Components\StatCard.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Views\ConfiguracoesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\DashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\DetalhesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\LocalidadesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\MissoesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\ModuloCrudForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\PersonagensForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\VeiculosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
